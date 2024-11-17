@@ -1,6 +1,8 @@
 
 /*  7 segment LCD serial control
    eddy Electronics
+   pin definition
+   
 */
 
 #define CS 13   //Pin 13 as chip selection output
